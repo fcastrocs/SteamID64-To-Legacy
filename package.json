@@ -1,17 +1,15 @@
 {
   "name": "steamid64-to-legacy",
-  "description": "",
+  "description": "Convert SteamID64 to Legacy SteamID (STEAM_X:Y:Z)",
   "version": "1.0.1",
   "type": "module",
+  "typings": "./typings/index.d.ts",
   "main": "./lib/index.js",
-  "scripts": {
-    "start": "node ./lib/index.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fcastrocs/SteamID64-To-Legacy.git"
   },
-  "author": "",
+  "author": "Francisco Castro",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fcastrocs/SteamID64-To-Legacy/issues"
