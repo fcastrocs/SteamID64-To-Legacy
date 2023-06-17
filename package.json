@@ -3,7 +3,7 @@
   "description": "Convert SteamID64 to Legacy SteamID (STEAM_X:Y:Z)",
   "version": "1.0.3",
   "type": "module",
-  "typings": "./typings/index.d.ts",
+  "typings": "./@types/index.d.ts",
   "main": "./lib/index.js",
   "scripts": {
     "prepare": "npm run build",
