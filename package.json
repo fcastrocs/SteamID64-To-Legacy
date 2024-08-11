@@ -1,8 +1,7 @@
 {
   "name": "@fcastrocs/steamid64-to-legacy",
   "description": "Convert SteamID64 to Legacy SteamID (STEAM_X:Y:Z)",
-  "version": "1.0.6",
-  "type": "module",
+  "version": "2.0.0",
   "typings": "./@types/index.d.ts",
   "main": "./lib/index.js",
   "scripts": {
